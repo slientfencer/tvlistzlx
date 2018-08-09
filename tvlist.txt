@@ -1,17 +1,31 @@
-包头新闻综合,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
-包头生活服务,http://live.btgdt.com/channels/btgd/shfw/flv:500k/live
-包头经济频道,http://live.btgdt.com/channels/btgd/jjpd/flv:500k/live
-优酷,http://v.youku.com/v_show/id_XODU1MzM2Mjky_ev_3.html?from=y1.3-idx-grid-1519-9909.86808-86807.3-1
-土豆,http://www.tudou.com/listplay/_PidpMTq1RI/Yr_TQR7-f8M.html
-爱奇艺,http://www.iqiyi.com/v_19rrnzu6lw.html
-搜狐,http://tv.sohu.com/20141223/n407225474.shtml
-乐视,http://www.letv.com/ptv/vplay/21525758.html
-迅雷,http://yule.kankan.com/vod/437/437503.shtml
-电影网,http://www.1905.com/vod/play/835552.shtml#guessYouLike
-PPS,http://www.iqiyi.com/yule/cndxt.html?src=focustext_0_20130527_1
-PPTV,http://v.pptv.com/show/AmTcW0ZibdLIVkics.html
-腾讯,http://v.qq.com/cover/h/hgtjblqzs6myc45.html?vid=y0015izajdf
-56,http://www.56.com/u29/v_MTMzMjkzNzA2.html
-风行,http://www.fun.tv/vplay/v-3504151
-芒果,http://www.hunantv.com/v/1/46001/f/1062219.html
-酷6,http://v.ku6.com/show/Z_787pXd6qFdq9KXRmFDVg...html?hpsrc=1_9_1_1_0
+魔希电影,http://dlhls.cdn.zhanqi.tv/zqlive/197372_1t79D.m3u8
+夯丶韦锅,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+ZQ 雪 儿,http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+电 影 阁,http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+小 鸢 尾,http://dlhls.cdn.zhanqi.tv/zqlive/47681_Vsqrx.m3u8
+萌新蓝光,http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+小鹿姐姐,http://dlhls.cdn.zhanqi.tv/zqlive/99815_VmbZY.m3u8
+馨児电影,http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+红心柚子,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+香港经典,http://dlhls.cdn.zhanqi.tv/zqlive/121008_VrwBK.m3u8
+吥漓吥気,http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+薇薇影视,http://dlhls.cdn.zhanqi.tv/zqlive/90819_iMmHS.m3u8
+宝 莱 坞,http://dlhls.cdn.zhanqi.tv/zqlive/166623_PXdHI.m3u8
+鑫 影 厅,http://dlhls.cdn.zhanqi.tv/zqlive/181869_nWqp2.m3u8
+执姿之手,http://dlhls.cdn.zhanqi.tv/zqlive/195838_pnem4.m3u8
+超清电影,http://dlhls.cdn.zhanqi.tv/zqlive/95498_K7QjM.m3u8
+小 鞋 匠,http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
+少伟影院,http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
+丁丁美食,http://dlhls.cdn.zhanqi.tv/zqlive/162912_xe279.m3u8
+Tayl电影,http://dlhls.cdn.zhanqi.tv/zqlive/74160_mUCBT.m3u8
+席夫电影,http://dlhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
+香港电影,http://dlhls.cdn.zhanqi.tv/zqlive/202585_biGXt.m3u8
+小枫电影,http://dlhls.cdn.zhanqi.tv/zqlive/56108_JxHhQ.m3u8
+恐怖影院,http://dlhls.cdn.zhanqi.tv/zqlive/133054_DUalN.m3u8
+小    品,http://dlhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
+视觉影院,http://dlhls.cdn.zhanqi.tv/zqlive/24163_v7WWQ.m3u8
+虫妹点播,http://wshls.cdn.zhanqi.tv/zqlive/53346_ESoth/playlist.m3u8
+战丶旗TV,http://dlhls.cdn.zhanqi.tv/zqlive/82615_bbTzO.m3u8
+恐怖电影,http://wshls.cdn.zhanqi.tv/zqlive/182988_cn66n/playlist.m3u8
+臭臭影院,http://dlhls.cdn.zhanqi.tv/zqlive/185857_cUjVu.m3u8
+科幻灾难,http://dlhls.cdn.zhanqi.tv/zqlive/219473_Fg3JF.m3u8
