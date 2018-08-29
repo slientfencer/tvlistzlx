@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/?IASHttpSessionId=OTT1746120180512074345007629
+#EXTINF:-1 ,CCTV3
+http://222.45.214.123:9192/live/hls/2.m3u8
+#EXTINF:-1 ,CCTV4
+http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/?IASHttpSessionId=OTT1746120180512074345007629
+#EXTINF:-1 ,CCTV10
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 ,CCTV11
+http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/?IASHttpSessionId=OTT1746120180512074345007629
+#EXTINF:-1 ,CCTV13
+http://223.110.241.204:6610/gitv/live1/CCTV-13/CCTV-13/
+#EXTINF:-1 ,CCTV14
+http://183.251.61.207/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/?IASHttpSessionId=OTT1746120180512074345007629
+#EXTINF:-1 ,江西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+#EXTINF:-1 ,江西2套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv02.m3u8
+#EXTINF:-1 ,江西3套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv03.m3u8
+#EXTINF:-1 ,江西4套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv04.m3u8
+#EXTINF:-1 ,江西5套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv05.m3u8
+#EXTINF:-1 ,江西6套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv06.m3u8
+#EXTINF:-1 ,江西7套
+http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv07.m3u8
+#EXTINF:-1 ,赣州综合
+rtmp://www.jxgztv.cn:9600/live/gztv1
